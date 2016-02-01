@@ -1,0 +1,27 @@
+#peace {
+	
+	margin: 100px;
+}
+
+#go {
+	width: 80px;
+	height: 80px;
+	background-color: #4d4dff;
+	color: white;
+}
+
+#stop {
+	width: 80px;
+	height: 80px;
+	background-color: #4d4dff;
+	color: white;
+	margin-left: 200px;
+}
+
+/*#tekst {
+	margin-top: 100px;
+	width: 600px;
+	height: 200px;
+	color: #4d4dff;
+	margin-left: 80px;
+}*/
